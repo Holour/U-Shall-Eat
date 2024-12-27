@@ -1,0 +1,18 @@
+test_all_cases (__main__.TestRobot.test_all_cases)
+测试所有DSL命令用例。 ... ok
+test_stub_basic_functionality (__main__.TestRobotStub.test_stub_basic_functionality)
+测试测试桩的基本功能。 ... FAIL
+
+======================================================================
+FAIL: test_stub_basic_functionality (__main__.TestRobotStub.test_stub_basic_functionality)
+测试测试桩的基本功能。
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "d:\北邮\大三上\程序设计实践\U Shall Eat\test\run\run_test_robot.py", line 150, in test_stub_basic_functionality
+    self.assertEqual(process.returncode, 0)
+AssertionError: 2 != 0
+
+----------------------------------------------------------------------
+Ran 2 tests in 2.584s
+
+FAILED (failures=1)

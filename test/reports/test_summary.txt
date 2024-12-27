@@ -1,0 +1,30 @@
+通过测试样例：{'case': '你好呀', 'reply': '深夜好！记得照顾好自己，有什么我能为您做的？', 'response_time': '0.000s', 'status': 'passed'}
+通过测试样例：{'case': '时间', 'reply': '现在是 星期五 23:11:30', 'response_time': '0.000s', 'status': 'passed'}
+通过测试样例：{'case': '播放音乐', 'reply': '这首这样很好由陈奕迅演唱，希望你喜欢！', 'response_time': '0.000s', 'status': 'passed'}
+通过测试样例：{'case': '推荐食堂', 'reply': '推荐你去风味餐厅，它位于综合食堂一楼，想试试看吗？', 'response_time': '0.000s', 'status': 'passed'}
+通过测试样例：{'case': '暂停播放', 'reply': '音乐暂停啦。', 'response_time': '0.000s', 'status': 'passed'}
+通过测试样例：{'case': '推荐食堂', 'reply': '推荐你去风味餐厅，它位于综合食堂一楼，想试试看吗？', 'response_time': '0.000s', 'status': 'passed'}
+通过测试样例：{'case': '推荐美食', 'reply': '不妨试试： 1 火鸡面，2 水煮鱼片，3 韩式辛拉面', 'response_time': '0.000s', 'status': 'passed'}
+通过测试样例：{'case': '恢复播放', 'reply': '已继续播放音乐。', 'response_time': '0.000s', 'status': 'passed'}
+通过测试样例：{'case': '换一首', 'reply': '已更换为林俊杰演唱的愿与愁，希望你喜欢！', 'response_time': '0.000s', 'status': 'passed'}
+通过测试样例：{'case': '天气怎么样', 'reply': '亲，北京现在-3.1°C，晴呢。要穿厚厚的羽绒服哦～', 'response_time': '2.000s', 'status': 'passed'}
+通过测试样例：{'case': '推荐美食', 'reply': '不妨试试： 1 火鸡面，2 水煮鱼片，3 韩式辛拉面', 'response_time': '0.000s', 'status': 'passed'}
+通过测试样例：{'case': '我喜欢吃辣', 'reply': '好的，已经将辣 加入您的喜好清单中！', 'response_time': '0.000s', 'status': 'passed'}
+通过测试样例：{'case': '我想吃米', 'reply': '太好了！原来您喜欢米啊，这个分类下有很多美味呢～', 'response_time': '0.000s', 'status': 'passed'}
+通过测试样例：{'case': '推荐美食', 'reply': '要不要试试这几个： 1 腐竹炒肉，2 青椒炒土豆丝，3 香菜披萨', 'response_time': '0.000s', 'status': 'passed'}
+通过测试样例：{'case': '推荐美食', 'reply': '不妨试试： 1 回锅肉饭，2 手打虾滑饭，3 湘味小炒肉盖饭', 'response_time': '0.000s', 'status': 'passed'}
+通过测试样例：{'case': '我喜欢吃咸', 'reply': '好的，我记住了！您喜欢咸呢～', 'response_time': '0.000s', 'status': 'passed'}
+通过测试样例：{'case': '我喜欢吃甜', 'reply': '了解！甜 确实很棒，已经记录您的喜好啦～', 'response_time': '0.000s', 'status': 'passed'}
+通过测试样例：{'case': '随便', 'reply': '好的，口味偏好已设置为随便。', 'response_time': '0.000s', 'status': 'passed'}
+通过测试样例：{'case': '推荐美食', 'reply': '要不要试试这几个： 1 吉野家牛肉饭，2 煲仔饭，3 酸辣土豆丝盖饭', 'response_time': '0.000s', 'status': 'passed'}
+通过测试样例：{'case': '推荐食堂', 'reply': '推荐你去清真餐厅，它位于学生餐厅二层，想试试看吗？', 'response_time': '0.000s', 'status': 'passed'}
+通过测试样例：{'case': '换一个', 'reply': '你可以去清真餐厅，位置在学生餐厅二层，感觉如何？', 'response_time': '0.000s', 'status': 'passed'}
+通过测试样例：{'case': '停止播放', 'reply': '已停止播放音乐。', 'response_time': '0.000s', 'status': 'passed'}
+通过测试样例：{'case': '安静', 'reply': '没有音乐在播放哦。', 'response_time': '0.000s', 'status': 'passed'}
+通过测试样例：{'case': '你好啊', 'reply': '夜深了！感谢您的付出，需要什么帮助吗？', 'response_time': '0.000s', 'status': 'passed'}
+通过测试样例：{'case': '语速快一点', 'reply': '明白，已加快语速！', 'response_time': '0.000s', 'status': 'passed'}
+通过测试样例：{'case': '你好呀', 'reply': '深夜好！记得照顾好自己，有什么我能为您做的？', 'response_time': '0.000s', 'status': 'passed'}
+通过测试样例：{'case': '语速慢一点', 'reply': '已经放慢语速啦，这样听起来清晰一些', 'response_time': '0.000s', 'status': 'passed'}
+通过测试样例：{'case': '你好哇', 'reply': '深夜好！记得照顾好自己，有什么我能为您做的？', 'response_time': '0.000s', 'status': 'passed'}
+通过测试样例：{'case': '语速正常', 'reply': '已将语速调整到正常水平', 'response_time': '0.000s', 'status': 'passed'}
+通过测试样例：{'case': '你好呐', 'reply': '深夜问候！熬夜工作吗？让我来帮您分担一些吧！', 'response_time': '0.000s', 'status': 'passed'}

@@ -1,0 +1,6 @@
+PyQt5
+python-vlc
+pyparsing
+requests
+pygame
+pyttsx3
