@@ -1,4 +1,7 @@
 # README
+>  作者：皮卡丘喝醉了（Holour）
+
+<img src="pictures/Holour.png" alt="Holour-皮卡丘喝醉了" style="zoom:25%;" />
 
 ## 作业说明
 
